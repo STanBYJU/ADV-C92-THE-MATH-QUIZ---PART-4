@@ -1,0 +1,22 @@
+body
+{
+	background: lightyellow;
+}
+
+.login_div1, .login_div2
+{
+	background-color: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#output
+{
+	background: bisque;
+	border-radius: 10px;
+	border-top: 10px solid brown;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
